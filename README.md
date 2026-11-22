@@ -10,37 +10,39 @@
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> Systems engineer & product builder.<br>
-> Deterministic architectures over stochastic guesses.
+> Product marketer pivoting to product management.<br>
+> Building working software to test real product hypotheses.
 
-I build explainable, deterministic systems that turn complex organizational intent<br>
-and healthcare data into traceable, verifiable intelligence. Focused on systems<br>
-reasoning, clinical knowledge graphs, and decision-support engines.
+I combine a product marketing background in go-to-market strategy, customer discovery,<br>
+and positioning with hands-on technical prototyping. I build working applications in Python,<br>
+TypeScript, and SQL to validate requirements, test customer retention models, and connect<br>
+business goals with engineering execution.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<samp>typescript &nbsp; python &nbsp; javascript &nbsp; react &nbsp; fastapi &nbsp; streamlit &nbsp; sqlite &nbsp; postgres &nbsp; docker &nbsp; git &nbsp; linux</samp>
+<samp>product strategy &nbsp; go-to-market &nbsp; customer research &nbsp; python &nbsp; sql &nbsp; typescript &nbsp; react &nbsp; streamlit &nbsp; fastapi &nbsp; git</samp>
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
-**[TRACE](https://github.com/sanvidvaidya/TRACE)** &nbsp;·&nbsp; <samp>typescript, react, 3d physics</samp><br>
-Deterministic systems reasoning and requirements engineering engine that<br>
-transforms ambiguous organizational intent into traceable, testable architectures.
+**[TRACE](https://github.com/sanvidvaidya/TRACE)** &nbsp;·&nbsp; <samp>python, streamlit, openapi</samp><br>
+Requirements engineering and systems mapping tool that turns ambiguous executive goals<br>
+into testable architecture graphs and stops costly engineering rework.
 
-**[healthgraph](https://github.com/sanvidvaidya/healthgraph)** &nbsp;·&nbsp; <samp>typescript, fhir</samp><br>
-Deterministic clinical intelligence platform and FHIR knowledge graph explorer<br>
-that validates healthcare schemas, resolves references, and delivers real-time CDS.
+**[healthgraph](https://github.com/sanvidvaidya/healthgraph)** &nbsp;·&nbsp; <samp>python, react, fhir r4</samp><br>
+FHIR-based clinical safety graph that connects fragmented medical records to catch<br>
+drug-drug contraindications and genetic risks before doctors prescribe.
 
-**[enterprise-decision-intelligence-simulator](https://github.com/sanvidvaidya/enterprise-decision-intelligence-simulator)** &nbsp;·&nbsp; <samp>python, streamlit</samp><br>
-Local, explainable SaaS renewal-risk decision-support system using SQLite,<br>
-pandas, and deterministic business rules.
+**[enterprise-decision-intelligence-simulator](https://github.com/sanvidvaidya/enterprise-decision-intelligence-simulator)** &nbsp;·&nbsp; <samp>python, streamlit, sqlite</samp><br>
+SaaS renewal decision simulator combining CRM data, usage telemetry, and support tickets<br>
+to calculate customer churn risk and model intervention strategies.
 
 **[lifemap](https://github.com/sanvidvaidya/lifemap)** &nbsp;·&nbsp; <samp>typescript, react</samp><br>
-Privacy-first personal analytics application that transforms local activity data<br>
-into a deterministic RPG world.
+Personal analytics web app that turns daily activity tracking into a visual gamified<br>
+dashboard without sending data to third parties.
 
-**[ai-product-research-system](https://github.com/sanvidvaidya/ai-product-research-system)** &nbsp;·&nbsp; <samp>python, prompt engineering</samp><br>
-AI-driven product research, competitive analysis, and PRD generation workflow.
+**[ai-product-research-system](https://github.com/sanvidvaidya/ai-product-research-system)** &nbsp;·&nbsp; <samp>python, react, vite</samp><br>
+Interactive product discovery and market research studio that generates PRDs, compares<br>
+competitors, and prioritizes features with RICE scoring.
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
@@ -63,7 +65,7 @@ these section headings are drawn by [a scheduled action](.github/workflows/stats
 straight from the GitHub GraphQL API, once a day, committing only what changed.
 
 They animate with SMIL inside the SVG, because GitHub strips scripts from<br>
-READMEs — and since nothing loads from a third party, nothing here can<br>
+READMEs - and since nothing loads from a third party, nothing here can<br>
 rate-limit or go dark. The headings are SVGs for the same reason: GitHub also<br>
 strips CSS, so an image is the only way to put this page's own typeface on them.
 
